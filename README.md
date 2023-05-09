@@ -1,0 +1,2 @@
+# Tarahi-algoritm
+Tarahi algoritm
